@@ -2,14 +2,14 @@
 
 This project is a web application for managing grocery lists and shopping tasks. It includes features such as user authentication, a dashboard for managing grocery items, and a responsive design using Tailwind CSS.
 
-# Signup Page
+## Signup Page
 
 ![Signup Page](public/Signup.jpg)
 
-# Login Page
+## Login Page
 ![Login Page](public/Login.jpg)
 
-# Dashboard
+## Dashboard
 ![Dashboard Page](public/Dashboard.jpg)
 
 
